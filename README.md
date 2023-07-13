@@ -9,9 +9,11 @@ Climate change has made it even more important for landlords and business owners
 
 
 ### Sensors 
-ESP 32
+##### ESP 32
 ![image](https://github.com/moha-55/Final-documentation/assets/121754960/c1ffd2fc-26a9-42b4-86ea-90033ba6d36c)
-Temperature and Humidity Sensor (DHT22)
+
+
+##### Temperature and Humidity Sensor (DHT22)
 ![image](https://github.com/moha-55/Final-documentation/assets/121754960/84d4b956-7d9d-4935-a158-80d6f10e2428)
 
 OverviewOverview
