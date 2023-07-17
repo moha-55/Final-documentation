@@ -1,4 +1,10 @@
 ## Temperature-Humidity-monitoring
+---------------------------------------------------
+## Group Members
+Mohamed Magdy 
+Abdelrahman Elgazzar
+Abd elrahamn Faid
+
 
 ### Problem Statment
 Maintaining appropriate temperature and humidity levels in indoor spaces is crucial for the well-being and productivity of occupants. The ideal range for temperature is 20ºC to 25ºC, and for humidity, it is 30% to 50% relative humidity. If the temperature is too high, it can lead to health risks like heat exhaustion, heat stroke, and decreased productivity. On the other hand, too cold can cause health problems such as high blood pressure, asthma, and poor mental health. A dry indoor environment can also cause skin problems, nosebleeds, and sore throats, while excessive humidity can lead to dampness and mould growth.
